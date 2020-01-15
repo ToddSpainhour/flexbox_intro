@@ -31,3 +31,19 @@ a {
     color: black;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
+
+footer {
+    width: 100%;
+    background-color: burlywood;
+    padding: 20px;
+    position: fixed;
+    margin: 20px;
+
+    }
+
+    section {
+        padding-right: 5%;
+        padding-left: 5%;
+        padding-top: 1em;
+        padding-bottom: 1em;
+    }
