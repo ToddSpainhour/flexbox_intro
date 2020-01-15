@@ -9,7 +9,7 @@ body {
 }
 
 .navbar {
-    background-color: firebrick;
+    background-color: darkolivegreen;
     display: flex;
 }
 
@@ -34,8 +34,8 @@ a {
 
 footer {
     width: 100%;
-    background-color: burlywood;
-    padding: 20px;
+    background-color: darkolivegreen;
+    
     position: fixed;
     margin: 20px;
 
@@ -46,4 +46,19 @@ footer {
         padding-left: 5%;
         padding-top: 1em;
         padding-bottom: 1em;
+    }
+
+   
+
+    article {
+        display: flex;
+        justify-content: space-evenly;
+        justify-content: center;
+    }
+
+    img {
+height: 250px;
+background-color: black;
+padding: 10px;
+margin: 10px;
     }
